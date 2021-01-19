@@ -1,0 +1,266 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  text-align: center;
+  height: 100vh;
+}
+header{
+  width: 16.3%;
+  background-image: linear-gradient(to right, #0909F6, #FFF);
+}
+.header_btn{
+  margin-top: 120%;
+  margin-right: 30%;
+}
+.h1p{
+  background-image: url(blackburger.png);
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: center;
+  flex-grow: 1;
+  margin-top: 3.9%;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.andsign{
+  font-size: 0.7em;
+}
+.comingsoon{
+  transform: rotate(340deg);
+  margin-top: 10%;
+  margin-right: 30%;
+}
+#menu {
+  background-image: url(img/menu.png);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-grow: 1;
+  margin-top: 10%;
+}
+#ruoka {
+  margin: 15.5%;
+  margin-top: 58%;
+}
+hr {
+  border: 1px dashed;
+  width: 85%;
+}
+.modal_content {
+  width: 400px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 5px;
+  text-align: center;
+  position: relative;
+}
+.login_modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+.signup_modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+.signing_pic {
+  margin-top: -15px;
+}
+.menu_content {
+  width: auto;
+  height: auto;
+  border-radius: 5px;
+  text-align: center;
+  position: relative;
+}
+.pizza_modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed; /*this line to fix inside modal*/
+  overflow: scroll; /*this line to scroll inside modal*/
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-self: safe center;
+  display: none;
+}
+
+.drinks_modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed; /*this line to fix inside modal*/
+  overflow: scroll; /*this line to scroll inside modal*/
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-self: safe center;
+  display: none;
+}
+.sweets_modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed; /*this line to fix inside modal*/
+  overflow: scroll; /*this line to scroll inside modal*/
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-self: safe center; /*align-items: center;*/
+  display: none;
+}
+.menu_card {
+  height: auto;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 10px;
+}
+.pizza_pic {
+  display: block;
+  object-fit: cover;
+  object-position: 50% 0;
+  width: 275px;
+  height: 150px;
+  background-image: url(https://www.floorsdirectltd.co.uk/pub/media/catalog/product/cache/53b987c16403135e0f7838d106b17933/image/1909fb0/egger-oyster-light-grey-oak-12mm-v-groove-laminate-flooring.png);
+}
+.drinks_pic {
+  display: inline-block;/*block*/
+  object-fit: contain;/*cover*/
+  object-position: 100% 0;
+  height: 250px;
+}
+.sweets_pic {
+  display: block;
+  object-fit: scale-down; /*make picture automaticly the size i need for modal content*/
+  object-position: 50% 10px; /*width height*/
+  width: 275px;
+  height: 150px;
+}
+.cards {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+  height: 400px;
+  width: 275px;
+}
+.form_control {
+  border-radius: 4px;
+  padding: 3px;
+  width: 40%;
+  border: 1px solid #999;
+  outline: none;
+}
+.close {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  font-size: 30px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+.button {
+  background: #fff;
+  padding: 5px 10px;
+  color: #34495e;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 14px;
+  border-radius: 5px;
+  box-shadow: 6px 6px 29px -4px rgba(0, 0, 0, 0.7);
+  margin-top: 25px;
+  text-decoration: none;
+  transition: 0,4s;
+}
+.button:hover {
+  background: #34495e;
+  color: #fff;
+}
+#user_pic {
+  background-image: url(https://p7.hiclipart.com/preview/442/477/305/computer-icons-user-profile-avatar-profile.jpg);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#fname_pic {
+  background-image: url(https://getdrawings.com/free-icon-bw/first-name-icon-1.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#sname_pic {
+  background-image: url(https://cdn3.iconfinder.com/data/icons/ahasoft-war/512/token-512.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#email_pic {
+  background-image: url(https://i7.pngguru.com/preview/675/142/572/email-address-computer-icons-symbol-email-marketing-send-email-button.jpg);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#phone_pic {
+  background-image: url(https://p7.hiclipart.com/preview/489/90/488/iphone-4-telephone-call-handset-ringing-phone-icon.jpg);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#city_pic {
+  background-image: url(https://cdn0.iconfinder.com/data/icons/good-view/500/View-08-512.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#address_pic {
+  background-image: url(https://p7.hiclipart.com/preview/595/737/234/computer-icons-address-book-address.jpg);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#pcode_pic {
+  background-image: url(https://cdn.iconscout.com/icon/premium/png-512-thumb/postcode-557755.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#pass_pic {
+  background-image: url(https://icons-for-free.com/iconfiles/png/512/lock+password+protect+safety+security+icon-1320086045132546966.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
+#confirm_pic {
+  background-image: url(https://image.flaticon.com/icons/png/512/52/52840.png);
+  position: left;
+  padding-left: 30px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+}
