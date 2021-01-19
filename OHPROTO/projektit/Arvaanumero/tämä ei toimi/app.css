@@ -1,0 +1,17 @@
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: gold;
+    }
+
+article{
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 0;
+  }
+
+input{
+  font-family: 'Indie Flower', cursive;
+}

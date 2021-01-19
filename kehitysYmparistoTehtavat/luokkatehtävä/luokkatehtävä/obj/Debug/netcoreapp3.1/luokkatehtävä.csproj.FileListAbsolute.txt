@@ -1,0 +1,13 @@
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.exe
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.deps.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.runtimeconfig.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.runtimeconfig.dev.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\bin\Debug\netcoreapp3.1\luokkatehtävä.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.csprojAssemblyReference.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.AssemblyInfoInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.AssemblyInfo.cs
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\luokkatehtävä\luokkatehtävä\obj\Debug\netcoreapp3.1\luokkatehtävä.genruntimeconfig.cache

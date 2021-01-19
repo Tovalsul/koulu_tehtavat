@@ -1,0 +1,11 @@
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\bin\Debug\ristiNollaWindowsFormilla.exe.config
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\bin\Debug\ristiNollaWindowsFormilla.exe
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\bin\Debug\ristiNollaWindowsFormilla.pdb
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.Form1.resources
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.Properties.Resources.resources
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.exe
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.pdb
+C:\Users\tonyl\source\repos\ristiNollaWindowsFormilla\ristiNollaWindowsFormilla\obj\Debug\ristiNollaWindowsFormilla.ristiNollaWindowsFormilla2.resources

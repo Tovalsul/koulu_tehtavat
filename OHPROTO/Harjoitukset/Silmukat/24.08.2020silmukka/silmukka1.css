@@ -1,0 +1,12 @@
+body{
+  background-color: #209999;
+
+}
+#laatikko{
+  display: flex;
+}
+.laatikot{
+  background-color: #c99900;
+  margin: 20px;
+  padding: 20px;
+}

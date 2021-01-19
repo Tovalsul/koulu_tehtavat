@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\bin\Debug\NeliLaskin.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\bin\Debug\NeliLaskin.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\bin\Debug\NeliLaskin.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.neliLaskin.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\NeliLaskin\NeliLaskin\obj\Debug\NeliLaskin.pdb

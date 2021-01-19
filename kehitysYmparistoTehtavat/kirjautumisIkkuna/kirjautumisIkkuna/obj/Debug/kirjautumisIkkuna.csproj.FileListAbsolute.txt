@@ -1,0 +1,13 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.Form1.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\bin\Debug\kirjautumisIkkuna.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\bin\Debug\kirjautumisIkkuna.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\bin\Debug\kirjautumisIkkuna.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.Main.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\bin\Debug\eCryptography.dll
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kirjautumisIkkuna\kirjautumisIkkuna\obj\Debug\kirjautumisIkkuna.csproj.CopyComplete

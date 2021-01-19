@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Lobster', cursive;
+  color: #4231E6;
+}
+
+p{
+  font-family: 'Dancing Script', cursive;
+  color: #4231E6;
+}
+
+input[type=submit]{
+  font-family: 'Indie Flower', cursive;
+  color: #F01685;
+}
+
+body{
+  font-family: 'Indie Flower', cursive;
+  color: #F01685;
+  text-align: center;
+  background: url("test/taustakuva.png");
+  height: 50%;
+  background-position: center;
+}
+
+form{
+  padding: 10px 10px 10px 10px;
+  background-color: #FFEA67;
+  width: 700px;
+  border: 5px solid black;
+  margin: auto;
+}

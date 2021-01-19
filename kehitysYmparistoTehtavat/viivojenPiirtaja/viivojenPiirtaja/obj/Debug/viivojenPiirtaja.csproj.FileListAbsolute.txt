@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\bin\Debug\viivojenPiirtaja.exe.config
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\bin\Debug\viivojenPiirtaja.exe
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\bin\Debug\viivojenPiirtaja.pdb
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.Form1.resources
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.Properties.Resources.resources
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.exe
+C:\Users\tonyl\source\repos\csharpProjekteja\viivojenPiirtaja\viivojenPiirtaja\obj\Debug\viivojenPiirtaja.pdb

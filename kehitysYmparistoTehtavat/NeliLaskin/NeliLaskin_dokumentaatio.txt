@@ -1,0 +1,28 @@
+1. Suunnitelma
+
+Tavoitteena on tehdä visual studiossa C# ohjelmointikielellä toimiva nelilaskin,
+käyttämällä edellämainitussa ohjelmassa olevia graafisia työkaluja ja windows formia.
+
+Ensimmäiseksi ajattelin tehdä toimivan numeronäppäimistön ja jonkun näytöllä näkyvän ikkunan, 
+josta näkee mitä on laskemassa ja laskujen tuloksen.
+
+Tämän jälkeen ohjelmoin laskentapuolen toimivaksi.
+Sen jälkeen jää vielä nähtäväksi kuinka visuaalisesti näyttävä ohjelmasta tulee.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+
+2. Käytetyt työvälineet ja ohjelmat 
+
+Välineet:
+- Pöytäkone
+
+Ohjelmat:
+- Visual studio community 2019
+- Notepad
+- Git bash
+- Opera
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+3. 

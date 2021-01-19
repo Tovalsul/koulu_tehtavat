@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\bin\Debug\Joku Csharp harjoitus.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\bin\Debug\Joku Csharp harjoitus.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\bin\Debug\Joku Csharp harjoitus.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku Csharp harjoitus.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku_Csharp_harjoitus.Form1.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku_Csharp_harjoitus.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku Csharp harjoitus.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku Csharp harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku Csharp harjoitus.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\Joku Csharp harjoitus\Joku Csharp harjoitus\obj\Debug\Joku Csharp harjoitus.pdb

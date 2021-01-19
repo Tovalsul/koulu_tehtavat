@@ -1,0 +1,132 @@
+﻿<Window x:Class="koyhanMiehenPacMan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:koyhanMiehenPacMan"
+        mc:Ignorable="d"
+        Title="PAC Man peli" Height="600" Width="800">
+    <Canvas Name="peliTaulu" KeyDown="CanvasKeyDown" Focusable="True" Background="Black">
+
+        <Label FontSize="20" Name="pisteetTeksti" Foreground="White" Content="Score: 0"></Label>
+
+        <Rectangle Name="pacman" Width="30" Height="30" Fill="Yellow" Canvas.Left="63" Canvas.Top="162"/>
+        <Rectangle Name="punainenJaba" Tag="haamu" Width="30" Height="30" Fill="Red" Canvas.Left="187" Canvas.Top="20"/>
+        <Rectangle Name="oranssiJaba"  Tag="haamu" Width="30" Height="30" Fill="Orange" Canvas.Left="607" Canvas.Top="102"/>
+        <Rectangle Name="pinkkiJaba" Tag="haamu" Width="30" Height="30" Fill="Pink" Canvas.Left="187" Canvas.Top="389" RenderTransformOrigin="0.626,0.409">
+        </Rectangle>
+
+
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="515" Canvas.Left="158" Canvas.Top="64"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="180" Width="20" Canvas.Left="158" Canvas.Top="162"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="180" Width="20" Canvas.Left="653" Canvas.Top="162"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="339" Canvas.Left="246" Canvas.Top="163"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="105" Width="20" Canvas.Left="565" Canvas.Top="183"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="105" Width="20" Canvas.Left="246" Canvas.Top="183"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="108" Canvas.Left="158" Canvas.Top="342"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="108" Canvas.Left="565" Canvas.Top="342"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="108" Canvas.Left="158" Canvas.Top="449"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="20" Width="108" Canvas.Left="565" Canvas.Top="449"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="94" Width="20" Canvas.Left="158" Canvas.Top="469"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="94" Width="20" Canvas.Left="653" Canvas.Top="469"/>
+        <Rectangle Tag="seina" Stroke="Aqua" StrokeThickness="3" Height="94" Width="90" Canvas.Left="377" Canvas.Top="469"/>
+
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="273" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="298" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="273" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="298" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="320" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="346" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="320" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="346" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="371" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="395" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="371" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="395" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="442" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="490" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="442" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="490" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="418" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="465" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="418" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="465" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="517" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="542" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="517" Canvas.Top="246"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="542" Canvas.Top="202"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="216" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="187" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="278" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="247" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="335" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="306" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="560" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="389" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="532" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="362" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="618" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="590" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="198" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="160" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="239" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="278" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="316" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="353" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="419" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="387" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="450" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="519" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="484" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="593" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="556" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="661" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="629" Canvas.Top="40"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="504" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="476" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="449" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="419" Canvas.Top="138"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="193" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="156" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="264" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="229" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="329" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="298" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="589" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="394" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="553" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="363" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="662" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="625" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="520" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="490" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="455" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="425" Canvas.Top="398"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="487" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="487" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="516" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="543" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="516" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="543" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="573" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="573" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="602" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="627" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="602" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="627" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="206" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="206" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="235" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="262" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="235" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="262" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="290" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="290" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="320" Canvas.Top="503"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="346" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="320" Canvas.Top="533"/>
+        <Rectangle Tag="kolikko" Height="10" Width="10" Fill="Gold" Canvas.Left="346" Canvas.Top="503"/>
+        <MediaElement Name="kolikkoAani" LoadedBehavior="Manual" Source="aanet/kolikko.wav"  Height="0" Width="0" />
+    </Canvas>
+    
+</Window>

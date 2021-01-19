@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: radial-gradient(#fff 0%, #aaa 30%, #000 90%);
+}
+form {
+  display: grid;
+  margin: 20px;
+  padding: 20px;
+
+}

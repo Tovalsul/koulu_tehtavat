@@ -1,0 +1,130 @@
+const nappulat = document.querySelectorAll('.nappula');
+const tulos = document.querySelector('tulos');
+const cNappula = document.querySelector('cNappula');
+/* Tällä loopilla saadaan aikaan se että addEventListener
+käy läpi kaikki siihen liitetyt taulukon indexit läpi ja
+kuuntelee milloin niitä klikataan. Lisäksi i = 0 kai määrittää mistä kohtaa
+se alotaa kyseisen taulukon läpikäymisen ja i < nappulat.length; kai toimii jarruna
+siltä varalta että se ei osaa lopettaa ajoissa.
+*/
+
+for (let i = 0 ; i < nappulat.length; i++){
+  nappulat[i].addEventListener('click', function(){
+  let numero = nappulat[i].getAttribute('value');
+  tulos.value += numero;
+});
+}
+
+
+// Nämä palautti erroria kun ei näköjään pysty ilman erillistä silmukkaa
+// liittaa ominaisuuksia.
+//document.querySelectorAll('.nappula').addEventListener('click', testi);
+
+
+/*
+document.querySelectorAll('.nappula').addEventListener('click', testi);
+*/
+
+
+function testi(){
+  alert('test test');
+}
+
+
+
+
+
+
+cNappula.addEventListener('click', function(){
+  tulos.value = '';
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************
+*
+*                   MUISTIINPANOT
+*
+********************************************************************/
+/*
+
+MUISTA LEIKATA TÄMÄ POIS MYÖHEMMIN OMAAN TEKSTITIEDOSTOON!
+
+*-------------------------------------------------------
+*  Opettele/Käy läpi
+*----------------------------------------------------------
+
+- Käy DOM läpi uudestaan
+- Katso miten jqueryllä valitaan elementtejä.
+
+
+
+
+
+
+
+
+
+
+*----------------------------------------------------
+*  Mikä ei toimi/meni pieleen
+*------------------------------------------------------
+
+
+ - Ei kannata yrittää arvolla saada kaikkien nappien arvoja kun
+   moni niistä ei edes ole numeroarvo.
+
+
+  Alla olevalla tuli vaan pelkkää nullia consoleen.
+
+
+function arvo(){
+  document.querySelector('nappula').value;
+  alert(nappula.value);
+}
+
+nappulat.addEventListener('click', arvo());
+
+
+- Kokeile liittää data html elementteihin ja sitä kautta hakea arvoja.
+
+
+- Document.getElementByClassName ei toimi operassa näköjään
+  sai vaan vastaukseksi että se ei ole funktio.
+
+- Jossain suosittelivat käyttämään jquerya, mutta kokeilen vielä
+  jos querySelectorAll toimisi ja hakisi kaikki sillä classillä
+  määritellyt buttonit.
+
+
+
+----------------------------------------------------------------
+
+
+-02.10.2020
+  Tajusin että pitää käydä DOM uudelleen läpi jotta pääsen eteenpäin.
+  En aio todellakaan kirjoittaa joka ikiselle napille omaa pätkää jolla ne saisi
+  jotenkin liitettyä.
+
+-01.10.2020
+  Aloitin kirjoittamaan ylös mitä tein minäkin päivänä tähän jotta ei unohdu
+  ihan heti mitä on tehny ja seuratakseni tuottavuutta.
+
+  Sain tehtyä toimivan viittauksen kaikkiin nappuloiin yhdellä pätkällä.
+
+
+
+
+
+*/

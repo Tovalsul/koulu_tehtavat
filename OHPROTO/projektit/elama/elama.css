@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+  color: green;
+  display: flex;
+  justify-content: center;
+
+}
+
+#elinYmparisto{
+
+}
+table{
+  border-collapse: collapse;
+}
+td{
+  padding: 10px;
+  border: 1px solid green;
+}
+td.kuollut{
+  background-color: transparent;
+}
+td.elossa{
+  background-color: green;
+  border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.Form1.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\bin\Debug\kaksiLukua.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\bin\Debug\kaksiLukua.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\bin\Debug\kaksiLukua.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\kaksiLukua\kaksiLukua\obj\Debug\kaksiLukua.pdb

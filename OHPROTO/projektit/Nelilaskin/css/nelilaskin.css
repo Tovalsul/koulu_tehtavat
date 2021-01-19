@@ -1,0 +1,51 @@
+*{
+    font-family: 'Orbitron', sans-serif;
+}
+body{
+  background-image: linear-gradient(to bottom right, #6AFF8B, #6EE8FF);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+table{
+  background: linear-gradient(to bottom right, #FF9C3E, #FFE7D1);
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  margin: auto;
+  box-shadow: 5px 5px 10px black;
+}
+div{
+  text-align: right;
+  padding:30px 15px 30px 15px;
+  background: #FFF;
+}
+th{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+tr{
+  padding: 10px;
+  margin: 20px;
+}
+td{
+  border: 1px solid black;
+  padding: 10px;
+  margin: 30px;
+}
+button{
+  border: 1px solid black;
+  border-radius: 3px;
+  background: #DCDCDC;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #fff;
+}
+#yhtakuin:hover{
+  opacity: 0;
+  cursor: none;
+}

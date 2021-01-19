@@ -1,0 +1,13 @@
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.exe
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.deps.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.runtimeconfig.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.runtimeconfig.dev.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\bin\Debug\netcoreapp3.1\tehtävä2.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.csprojAssemblyReference.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.AssemblyInfoInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.AssemblyInfo.cs
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tehtävä2\tehtävä2\obj\Debug\netcoreapp3.1\tehtävä2.genruntimeconfig.cache

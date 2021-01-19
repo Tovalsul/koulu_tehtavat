@@ -1,0 +1,79 @@
+/*
+  Tausta piti laittaa html:ään ja html:n korkeus säätää 100%,
+  jotta tausta suostui täyttämään koko ikkunan. 
+*/
+
+html {
+  height: 100%;
+  background-image: linear-gradient(200deg, orange, blue);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.rivi {
+/*  text-align: center;*/
+}
+
+.kortti {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.kortti:hover {
+  box-shadow: inset 0px 0px 0px 1px red;
+  box-sizing: border-box;
+}
+
+.kortti.pari {
+  cursor: default;
+  animation: syki 0.5s infinite alternate;
+}
+
+@keyframes syki {
+  from {box-shadow: 1px 1px 10px 1px purple;}
+  to {box-shadow: 5px 5px 10px 5px purple;}
+}
+
+.kortti.pari:hover {
+  cursor: default;
+  box-shadow: none;
+}
+
+.punainen {
+  background-color: red;
+}
+
+.sininen {
+  background-color: blue;
+}
+
+.keltainen {
+  background-color: yellow;
+}
+
+.oranssi {
+  background-color: orange;
+}
+
+.vihrea {
+  background-color: green;
+}
+
+.vaaleanpunainen {
+  background-color: pink;
+}
+
+.syaani {
+  background-color: cyan;
+}
+ .sinivihrea {
+   background-color: teal;
+ }
+
+ .piilotettu-kortti {
+   background-color: #eee;
+ }

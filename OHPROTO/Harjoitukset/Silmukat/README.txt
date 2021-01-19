@@ -1,0 +1,1 @@
+Isosta osasta tehtäviä puuttuu vielä javascript puoli kokonaan. Teen niitä sitä mukaa kun kerkeän.

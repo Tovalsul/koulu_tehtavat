@@ -1,0 +1,16 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\bin\Debug\koyhanMiehenPacMan.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\bin\Debug\koyhanMiehenPacMan.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\bin\Debug\koyhanMiehenPacMan.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\MainWindow.g.cs
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\App.g.cs
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan_MarkupCompile.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan_MarkupCompile.lref
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\MainWindow.baml
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.g.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPacMan\koyhanMiehenPacMan\obj\Debug\koyhanMiehenPacMan_Content.g.cs

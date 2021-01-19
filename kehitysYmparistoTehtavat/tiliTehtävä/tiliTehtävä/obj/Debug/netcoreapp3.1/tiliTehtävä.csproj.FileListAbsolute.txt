@@ -1,0 +1,13 @@
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.exe
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.deps.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.runtimeconfig.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.runtimeconfig.dev.json
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\bin\Debug\netcoreapp3.1\tiliTehtävä.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.csprojAssemblyReference.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.AssemblyInfoInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.AssemblyInfo.cs
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.dll
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.pdb
+C:\Users\tonyl\Source\Repos\kehitysYmparistoTehtavat\tiliTehtävä\tiliTehtävä\obj\Debug\netcoreapp3.1\tiliTehtävä.genruntimeconfig.cache

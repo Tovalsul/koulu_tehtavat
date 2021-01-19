@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\bin\Debug\koyhanMiehenPunchOut.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\bin\Debug\koyhanMiehenPunchOut.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\bin\Debug\koyhanMiehenPunchOut.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.Form1.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\koyhanMiehenPunchOut\koyhanMiehenPunchOut\obj\Debug\koyhanMiehenPunchOut.pdb

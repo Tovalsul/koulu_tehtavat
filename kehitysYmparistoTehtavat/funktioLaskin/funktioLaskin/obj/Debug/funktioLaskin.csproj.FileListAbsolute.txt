@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\bin\Debug\funktioLaskin.exe.config
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\bin\Debug\funktioLaskin.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\bin\Debug\funktioLaskin.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.Properties.Resources.resources
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.exe
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.pdb
+C:\Users\tonyl\source\repos\kehitysYmparistoTehtavat\funktioLaskin\funktioLaskin\obj\Debug\funktioLaskin.funktioLaskin.resources
