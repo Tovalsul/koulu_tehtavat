@@ -1,0 +1,80 @@
+1. SELECT `FIRST_NAME`, `LAST_NAME` FROM `employees`;
+
+2. SELECT DISTINCT `ContactTitle` FROM customers;
+
+3. SELECT *  from employees ORDER BY last_name ASC;
+
+4.SELECT `FIRST_NAME`, `LAST_NAME`, `SALARY`, SALARY*1.15 AS bonus FROM `employees`;'
+
+5. SELECT `FIRST_NAME`, `LAST_NAME`, `SALARY`, `SALARY`+`COMMISSION_PCT` AS provikat FROM `employees` ORDER BY SALARY DESC;
+
+6. SELECT * FROM employees WHERE SALARY < 2400;
+
+7. SELECT MIN(Salary), MAX(Salary) FROM `employees`;
+
+8. SELECT AVG(Salary) FROM `employees`;
+
+9. SELECT SALARY FROM employees WHERE SALARY < 2400;
+	- Kolme sai alle 2400.
+
+10. SELECT `SALARY` FROM `employees` WHERE `SALARY` > 20000;
+	- Yksi sai 24000.
+
+11. SELECT `SALARY` FROM `employees` WHERE `SALARY` > 5000 AND `SALARY` < 8000;
+	- 22 sai tuolta väliltä palkkaa.
+
+12. SELECT COUNT(`FIRST_NAME`) FROM employees;
+	- 107 työntekijää.
+
+13. SELECT COUNT(DISTINCT `FIRST_NAME`) FROM `employees`;
+	- 91 eri nimeä.
+
+14. SELECT UPPER(`firstname`), UPPER(`lastname`) FROM employees;
+
+15. SELECT lastName, firstName, CONCAT(SUBSTRING(lastName,1,5), + SUBSTRING(firstName,1,3)) AS username FROM northwind.employees;
+
+16. SELECT 12 * 12 * 12;
+
+17. SELECT CONCAT(`FirstName`, ' ', `LastName`) AS fullName FROM `employees`;
+
+18. SELECT `FIRST_NAME`, `LAST_NAME`, LENGTH(`FIRST_NAME`) +  LENGTH(`LAST_NAME`) AS nimenPituus FROM employees;
+
+19. SELECT `lastname` FROM employees WHERE `lastname` REGEXP'[v-z]';
+
+20. SELECT `ProductName`, `UnitsInStock` FROM products LIMIT 50;
+
+21. SELECT Companyname, ContactName FROM customers WHERE city = "Buenos Aires";
+
+22. SELECT `ProductName`, `UnitPrice`, `UnitsInStock` FROM `products` WHERE `UnitsInStock` = 0;
+
+23. SELECT * FROM `employees` WHERE `Country` != 'USA';
+
+24. SELECT * FROM `customers` WHERE `Fax` IS NOT NULL;
+
+25. SELECT ProductName, UnitPrice FROM products WHERE UnitPrice < (SELECT UnitPrice FROM products WHERE ProductName = 'Aniseed Syrup');
+
+26. SELECT `ProductName`, `SupplierID` FROM `products` WHERE `SupplierID` = '7';
+
+27. SELECT ProductName FROM northwind.products WHERE CategoryID IN (SELECT CategoryID FROM northwind.categories WHERE CategoryName = 'MEAT/POYLTRY' OR CategoryName = 'Seafood');
+	- tämä tapa oli tarkempi ja siitä hieno että ei tarvitse tietää ID-numeroita jotta löytää tuotteet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
