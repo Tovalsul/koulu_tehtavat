@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\bin\Debug\harjoitus4.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\bin\Debug\harjoitus4.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\bin\Debug\harjoitus4.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.Ikalaskuri.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus4\harjoitus4\obj\Debug\harjoitus4.pdb

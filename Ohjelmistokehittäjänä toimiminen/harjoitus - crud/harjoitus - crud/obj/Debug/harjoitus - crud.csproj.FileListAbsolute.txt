@@ -1,0 +1,6 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus - crud.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus - crud.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus___crud.opiskelijarekisteri.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus___crud.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus - crud.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus - crud\harjoitus - crud\obj\Debug\harjoitus - crud.csproj.CoreCompileInputs.cache

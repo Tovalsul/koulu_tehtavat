@@ -1,0 +1,9 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb

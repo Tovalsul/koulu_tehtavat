@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.SalasanaForm.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.pdb

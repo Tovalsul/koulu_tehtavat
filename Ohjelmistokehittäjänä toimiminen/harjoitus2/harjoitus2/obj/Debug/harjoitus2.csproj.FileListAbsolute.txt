@@ -1,0 +1,9 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\bin\Debug\harjoitus2.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\bin\Debug\harjoitus2.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\bin\Debug\harjoitus2.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\harjoitus2\harjoitus2\obj\Debug\harjoitus2.pdb

@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\bin\Debug\Laskin.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\bin\Debug\Laskin.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\bin\Debug\Laskin.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.yksinkertainenNeliLaskn.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Laskin\Laskin\obj\Debug\Laskin.pdb
