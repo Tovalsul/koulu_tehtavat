@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\bin\Debug\celsius_fahrenheiteiksi.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\bin\Debug\celsius_fahrenheiteiksi.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\bin\Debug\celsius_fahrenheiteiksi.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\celsius_fahrenheiteiksi\celsius_fahrenheiteiksi\obj\Debug\celsius_fahrenheiteiksi.pdb

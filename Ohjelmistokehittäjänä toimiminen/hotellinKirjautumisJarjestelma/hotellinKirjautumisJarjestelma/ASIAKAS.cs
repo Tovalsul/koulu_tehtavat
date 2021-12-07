@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
+using Eramake;
 
 namespace hotellinKirjautumisJarjestelma
     /*
@@ -23,7 +24,7 @@ namespace hotellinKirjautumisJarjestelma
         public bool syotaAsiakas(String eNimi, String sNimi, String puhNro, String maa)
         {
             MySqlCommand kasky = new MySqlCommand();
-            String syotaKysely = "INSERT INTO `asiakkaat`(`etu_nimi`, `suku_nimi`, `puhelin_nro`, `maa`) VALUES (@enm,@snm,@phn,@maa) ";
+            String syotaKysely = "INSERT INTO `asiakkaat`(`etu_nimi`, `suku_nimi`, `puhelin_nro`, `maa`, `salasana`) VALUES (@enm,@snm,@phn,@maa, @ssa) ";
             kasky.CommandText = syotaKysely;
             kasky.Connection = conn.haeYhteys();
 
@@ -32,6 +33,11 @@ namespace hotellinKirjautumisJarjestelma
             kasky.Parameters.Add("@snm", MySqlDbType.VarChar).Value = sNimi;
             kasky.Parameters.Add("@phn", MySqlDbType.VarChar).Value = puhNro;
             kasky.Parameters.Add("@maa", MySqlDbType.VarChar).Value = maa;
+
+            if(kayttaja != "")
+            {
+
+            }
 
             conn.avaaYhteys();
 
@@ -114,6 +120,20 @@ namespace hotellinKirjautumisJarjestelma
                 conn.suljeYhteys();
                 return false;
             }
+        }
+
+        // Luodaan salasana
+        public string luoSalasana()
+        {
+            char[] alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#€?0123456789".ToCharArray();
+            Random satunnaisluku = new Random();
+            string salasana = "";
+            for(int i =0; i < 12; i++)
+            {
+                int indeksi = satunnaisluku.Next(alpha.Length);
+                salasana += alpha[indeksi];
+            }
+            return salasana;
         }
     }
 }
