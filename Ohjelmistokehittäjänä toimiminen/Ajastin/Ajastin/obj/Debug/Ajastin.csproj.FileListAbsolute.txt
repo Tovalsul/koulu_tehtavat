@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\bin\Debug\Ajastin.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\bin\Debug\Ajastin.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\bin\Debug\Ajastin.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\Ajastin\Ajastin\obj\Debug\Ajastin.pdb

@@ -36,7 +36,7 @@ namespace celsius_fahrenheiteiksi
                     vastausLB.Visible = true;
             }
             // laitetaan tyhjää vastauskenttää varten vielä yksi tarkistus kertomaan käyttäjälle että siihen kenttään pitää syöttää joku luku. Samalla varmistetaan että ohjelma ei kaadu jos näin käy.
-            // pelkkä else ei toimi, vaikka sen pitäisi kattaa muut syötteet...
+            // pelkkä else ei toimi, vaikka sen pitäisi kattaa muut syötteet... Ohjelma kaatuu jos jättää syöttämättä mitään.
             else
             {
                 vastausLB.Text = "Et valinnut muunnettavaa astetta tai antanut oikeaa lukua";

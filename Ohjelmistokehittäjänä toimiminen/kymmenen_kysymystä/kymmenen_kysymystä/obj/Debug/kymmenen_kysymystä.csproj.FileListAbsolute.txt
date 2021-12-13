@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\bin\Debug\kymmenen_kysymystä.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\bin\Debug\kymmenen_kysymystä.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\bin\Debug\kymmenen_kysymystä.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\kymmenen_kysymystä\kymmenen_kysymystä\obj\Debug\kymmenen_kysymystä.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\bin\Debug\nopan_heitto.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\bin\Debug\nopan_heitto.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\bin\Debug\nopan_heitto.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\nopan_heitto\nopan_heitto\obj\Debug\nopan_heitto.pdb

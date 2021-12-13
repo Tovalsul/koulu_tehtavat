@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\bin\Debug\bmi_laskuri.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\bin\Debug\bmi_laskuri.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\bin\Debug\bmi_laskuri.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\bmi_laskuri\bmi_laskuri\obj\Debug\bmi_laskuri.pdb

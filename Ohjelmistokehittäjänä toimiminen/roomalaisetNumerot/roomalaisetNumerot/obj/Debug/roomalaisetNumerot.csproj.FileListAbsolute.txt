@@ -1,0 +1,10 @@
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.exe.config
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.pdb
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csprojAssemblyReference.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.Form1.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.Properties.Resources.resources
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.GenerateResource.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.exe
+C:\Users\tonyl\source\repos\koulu_tehtavat\Ohjelmistokehittäjänä toimiminen\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.pdb
