@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using Eramake;
 
 namespace hotellinKirjautumisJarjestelma
 {
@@ -25,13 +26,13 @@ namespace hotellinKirjautumisJarjestelma
             DataTable taulukko = new DataTable();
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             MySqlCommand kasky = new MySqlCommand();
-            String kysely = "SELECT * FROM `kayttajat` WHERE `kayttajanimi` = @usn AND `salasana` =@pass";
+            String kysely = "SELECT * FROM `asiakkaat` WHERE `kayttajanimi` = @ktu AND `salasana` =@ssana";
 
             kasky.CommandText = kysely;
             kasky.Connection = conn.haeYhteys();
 
-            kasky.Parameters.Add("@usn", MySqlDbType.VarChar).Value = kayttajaNimiTekstiLaatikko.Text;
-            kasky.Parameters.Add("@pass", MySqlDbType.VarChar).Value = salasanaTekstiLaatikko.Text;
+            kasky.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = kayttajaNimiTekstiLaatikko.Text;
+            kasky.Parameters.Add("@ssana", MySqlDbType.VarChar).Value = eCryptography.Encrypt(salasanaTekstiLaatikko.Text);
 
             adapteri.SelectCommand = kasky;
             adapteri.Fill(taulukko);
@@ -39,10 +40,18 @@ namespace hotellinKirjautumisJarjestelma
             //jos käyttäjänimi ja salasana ovat olemassa niin
             if(taulukko.Rows.Count > 0)
             {
-                // piilottaa logini ikkunan ja näyttää pääikkunan
-                this.Hide();
-                paaIkkunaForm paaForm = new paaIkkunaForm();
-                paaForm.Show();
+                // Tarkistetaan että ei käyttäjänimi ja salasana ettei pääse sisään ilman mitään tunnuksia.
+                if (kayttajaNimiTekstiLaatikko.Text.Trim().Equals("") && salasanaTekstiLaatikko.Text.Trim().Equals(""))
+                {
+                    MessageBox.Show("Kirjoita käyttäjänimesi ja salasanasi kirjautuaksesi sisään", "Kirjautumistiedot puuttuu.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else
+                {
+                    // piilottaa logini ikkunan ja näyttää pääikkunan
+                    this.Hide();
+                    paaIkkunaForm paaForm = new paaIkkunaForm();
+                    paaForm.Show();
+                }
             }
             else
             {

@@ -21,24 +21,37 @@ namespace hotellinKirjautumisJarjestelma
         YHDISTA conn = new YHDISTA();
 
         // funktio joka syöttää uuden asikkaan tiedot
-        public bool syotaAsiakas(String eNimi, String sNimi, String puhNro, String maa)
+        public bool syotaAsiakas(String eNimi, String sNimi, String puhNro, String maa, String kayttajanimi, String salasana)
         {
             MySqlCommand kasky = new MySqlCommand();
-            String syotaKysely = "INSERT INTO `asiakkaat`(`etu_nimi`, `suku_nimi`, `puhelin_nro`, `maa`, `salasana`) VALUES (@enm,@snm,@phn,@maa, @ssa) ";
+            String syotaKysely = "INSERT INTO `asiakkaat`(`etu_nimi`, `suku_nimi`, `puhelin_nro`, `maa`, `kayttajanimi`, `salasana`) VALUES (@enm,@snm,@phn,@maa,@ktu,@ssa) ";
             kasky.CommandText = syotaKysely;
             kasky.Connection = conn.haeYhteys();
 
-            // @enm ,@snm ,@phn ,@maa
+            // @enm ,@snm ,@phn ,@maa, @ktu, @ssa
             kasky.Parameters.Add("@enm", MySqlDbType.VarChar).Value = eNimi;
             kasky.Parameters.Add("@snm", MySqlDbType.VarChar).Value = sNimi;
             kasky.Parameters.Add("@phn", MySqlDbType.VarChar).Value = puhNro;
             kasky.Parameters.Add("@maa", MySqlDbType.VarChar).Value = maa;
 
-            if(kayttaja != "")
+            if(kayttajanimi != "")
             {
-
+                kasky.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = kayttajanimi.ToLower();
             }
-
+            else
+            {
+                kasky.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = eNimi.Substring(0, 3).ToLower() + sNimi.Substring(0, 5).ToLower();
+            }
+            if (salasana != "")
+            {
+                kasky.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = eCryptography.Encrypt(salasana);
+            }
+            else
+            {
+                kasky.Parameters.Add("@ssa", MySqlDbType.VarChar).Value = eCryptography.Encrypt(luoSalasana());
+                // MessageBox.Show(luoSalasana());
+            }
+            
             conn.avaaYhteys();
 
             if(kasky.ExecuteNonQuery() == 1)
@@ -69,10 +82,10 @@ namespace hotellinKirjautumisJarjestelma
         }
 
         // tällä funktiolla voi muokata asiakkaiden tietoja.
-        public bool muokkaaAsiakas(int id, String eNimi, String sNimi, String puhNro, String maa)
+        public bool muokkaaAsiakas(int id, String eNimi, String sNimi, String puhNro, String maa, String kayttajanimi)
         {
             MySqlCommand kasky = new MySqlCommand();
-            String muokkaaKysely = "UPDATE `asiakkaat` SET `etu_nimi`=@enm,`suku_nimi`=@snm,`puhelin_nro`=@phn,`maa`=@maa WHERE `id`=@aid";
+            String muokkaaKysely = "UPDATE `asiakkaat` SET `etu_nimi`=@enm,`suku_nimi`=@snm,`puhelin_nro`=@phn,`maa`=@maa, `kayttajanimi`=@ktu WHERE `id`=@aid";
             kasky.CommandText = muokkaaKysely;
             kasky.Connection = conn.haeYhteys();
 
@@ -82,6 +95,7 @@ namespace hotellinKirjautumisJarjestelma
             kasky.Parameters.Add("@snm", MySqlDbType.VarChar).Value = sNimi;
             kasky.Parameters.Add("@phn", MySqlDbType.VarChar).Value = puhNro;
             kasky.Parameters.Add("@maa", MySqlDbType.VarChar).Value = maa;
+            kasky.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = kayttajanimi;
 
             conn.avaaYhteys();
 
@@ -122,7 +136,7 @@ namespace hotellinKirjautumisJarjestelma
             }
         }
 
-        // Luodaan salasana
+        // Funktio joka tekee 12 merkkisen salasanan satunnaisesti valituista taulukon merkeistä.
         public string luoSalasana()
         {
             char[] alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#€?0123456789".ToCharArray();

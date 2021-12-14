@@ -46,6 +46,10 @@
             this.idHalAsiakasLabel = new System.Windows.Forms.Label();
             this.halAsiakasYlaPaneeli = new System.Windows.Forms.Panel();
             this.halAsiakasLabel = new System.Windows.Forms.Label();
+            this.knimiLabel = new System.Windows.Forms.Label();
+            this.salasanaLabel = new System.Windows.Forms.Label();
+            this.kNimiTextBox = new System.Windows.Forms.TextBox();
+            this.salasanaTextBox = new System.Windows.Forms.TextBox();
             this.halAsiakasAlaPaneeli.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.halAsiakasYlaPaneeli.SuspendLayout();
@@ -54,6 +58,10 @@
             // halAsiakasAlaPaneeli
             // 
             this.halAsiakasAlaPaneeli.BackColor = System.Drawing.Color.SlateGray;
+            this.halAsiakasAlaPaneeli.Controls.Add(this.salasanaTextBox);
+            this.halAsiakasAlaPaneeli.Controls.Add(this.kNimiTextBox);
+            this.halAsiakasAlaPaneeli.Controls.Add(this.salasanaLabel);
+            this.halAsiakasAlaPaneeli.Controls.Add(this.knimiLabel);
             this.halAsiakasAlaPaneeli.Controls.Add(this.tyjennaKentatNappi);
             this.halAsiakasAlaPaneeli.Controls.Add(this.poistaNappi);
             this.halAsiakasAlaPaneeli.Controls.Add(this.muokkaaNappi);
@@ -79,7 +87,7 @@
             // tyjennaKentatNappi
             // 
             this.tyjennaKentatNappi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tyjennaKentatNappi.Location = new System.Drawing.Point(8, 381);
+            this.tyjennaKentatNappi.Location = new System.Drawing.Point(8, 439);
             this.tyjennaKentatNappi.Name = "tyjennaKentatNappi";
             this.tyjennaKentatNappi.Size = new System.Drawing.Size(332, 40);
             this.tyjennaKentatNappi.TabIndex = 15;
@@ -90,7 +98,7 @@
             // poistaNappi
             // 
             this.poistaNappi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.poistaNappi.Location = new System.Drawing.Point(255, 316);
+            this.poistaNappi.Location = new System.Drawing.Point(255, 374);
             this.poistaNappi.Name = "poistaNappi";
             this.poistaNappi.Size = new System.Drawing.Size(85, 40);
             this.poistaNappi.TabIndex = 14;
@@ -101,7 +109,7 @@
             // muokkaaNappi
             // 
             this.muokkaaNappi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.muokkaaNappi.Location = new System.Drawing.Point(164, 316);
+            this.muokkaaNappi.Location = new System.Drawing.Point(164, 374);
             this.muokkaaNappi.Name = "muokkaaNappi";
             this.muokkaaNappi.Size = new System.Drawing.Size(85, 40);
             this.muokkaaNappi.TabIndex = 13;
@@ -112,7 +120,7 @@
             // lisaaAsiakasNappi
             // 
             this.lisaaAsiakasNappi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lisaaAsiakasNappi.Location = new System.Drawing.Point(8, 316);
+            this.lisaaAsiakasNappi.Location = new System.Drawing.Point(8, 374);
             this.lisaaAsiakasNappi.Name = "lisaaAsiakasNappi";
             this.lisaaAsiakasNappi.Size = new System.Drawing.Size(150, 40);
             this.lisaaAsiakasNappi.TabIndex = 12;
@@ -243,6 +251,42 @@
             this.halAsiakasLabel.Text = "Hallitse Asiakkaita";
             this.halAsiakasLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // knimiLabel
+            // 
+            this.knimiLabel.AutoSize = true;
+            this.knimiLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.knimiLabel.Location = new System.Drawing.Point(3, 280);
+            this.knimiLabel.Name = "knimiLabel";
+            this.knimiLabel.Size = new System.Drawing.Size(113, 24);
+            this.knimiLabel.TabIndex = 16;
+            this.knimiLabel.Text = "Käyttäjänimi:";
+            // 
+            // salasanaLabel
+            // 
+            this.salasanaLabel.AutoSize = true;
+            this.salasanaLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.salasanaLabel.Location = new System.Drawing.Point(25, 315);
+            this.salasanaLabel.Name = "salasanaLabel";
+            this.salasanaLabel.Size = new System.Drawing.Size(91, 24);
+            this.salasanaLabel.TabIndex = 17;
+            this.salasanaLabel.Text = "Salasana:";
+            // 
+            // kNimiTextBox
+            // 
+            this.kNimiTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.kNimiTextBox.Location = new System.Drawing.Point(116, 277);
+            this.kNimiTextBox.Name = "kNimiTextBox";
+            this.kNimiTextBox.Size = new System.Drawing.Size(200, 29);
+            this.kNimiTextBox.TabIndex = 18;
+            // 
+            // salasanaTextBox
+            // 
+            this.salasanaTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.salasanaTextBox.Location = new System.Drawing.Point(116, 312);
+            this.salasanaTextBox.Name = "salasanaTextBox";
+            this.salasanaTextBox.Size = new System.Drawing.Size(200, 29);
+            this.salasanaTextBox.TabIndex = 19;
+            // 
             // HallitseAsiakkaitaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -281,5 +325,9 @@
         private System.Windows.Forms.Button lisaaAsiakasNappi;
         private System.Windows.Forms.Button poistaNappi;
         private System.Windows.Forms.Button tyjennaKentatNappi;
+        private System.Windows.Forms.TextBox salasanaTextBox;
+        private System.Windows.Forms.TextBox kNimiTextBox;
+        private System.Windows.Forms.Label salasanaLabel;
+        private System.Windows.Forms.Label knimiLabel;
     }
 }

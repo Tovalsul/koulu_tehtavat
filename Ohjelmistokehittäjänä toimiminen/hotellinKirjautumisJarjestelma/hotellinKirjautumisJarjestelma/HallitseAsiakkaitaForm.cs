@@ -26,6 +26,8 @@ namespace hotellinKirjautumisJarjestelma
             sNimiHalAsiakasTextBox.Text = "";
             puhnroHalAsiakasTextBox.Text = "";
             maaHalAsiakasTextBox.Text = "";
+            kNimiTextBox.Text = "";
+            salasanaTextBox.Text = "";
 
             dataGridView1.DataSource = asiakas.haeAsiakkaat();
         }
@@ -37,6 +39,8 @@ namespace hotellinKirjautumisJarjestelma
             String sNimi = sNimiHalAsiakasTextBox.Text;
             String puhNro = puhnroHalAsiakasTextBox.Text;
             String maa = maaHalAsiakasTextBox.Text;
+            String kayttajanimi = kNimiTextBox.Text;
+            String salasana = salasanaTextBox.Text;
 
             if (eNimi.Trim().Equals("") || sNimi.Trim().Equals("") || puhNro.Trim().Equals(""))
             {
@@ -44,7 +48,7 @@ namespace hotellinKirjautumisJarjestelma
             }
             else
             {
-                Boolean syotaAsiakas = asiakas.syotaAsiakas(eNimi, sNimi, puhNro, maa);
+                Boolean syotaAsiakas = asiakas.syotaAsiakas(eNimi, sNimi, puhNro, maa, kayttajanimi, salasana);
 
                 if (syotaAsiakas)
                 {
@@ -73,6 +77,8 @@ namespace hotellinKirjautumisJarjestelma
             String sNimi = sNimiHalAsiakasTextBox.Text;
             String puhNro = puhnroHalAsiakasTextBox.Text;
             String maa = maaHalAsiakasTextBox.Text;
+            String kayttajanimi = kNimiTextBox.Text;
+            
 
             try
             {
@@ -84,7 +90,7 @@ namespace hotellinKirjautumisJarjestelma
                 }
                 else
                 {
-                    Boolean muokkaaAsiakas = asiakas.muokkaaAsiakas(id, eNimi, sNimi, puhNro, maa);
+                    Boolean muokkaaAsiakas = asiakas.muokkaaAsiakas(id, eNimi, sNimi, puhNro, maa, kayttajanimi);
 
                     if (muokkaaAsiakas)
                     {
@@ -114,6 +120,7 @@ namespace hotellinKirjautumisJarjestelma
             sNimiHalAsiakasTextBox.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
             puhnroHalAsiakasTextBox.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
             maaHalAsiakasTextBox.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
+            kNimiTextBox.Text = dataGridView1.CurrentRow.Cells[5].Value.ToString();
         }
 
         private void poistaNappi_Click(object sender, EventArgs e)
